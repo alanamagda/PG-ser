@@ -1,2 +1,2 @@
-# PG-ser
-Disciplina: Introdução à Programação com Dados Geoespaciais.  
+# PG-SER
+Disciplina: Introdução à Programação.  
